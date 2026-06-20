@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://raw.githubusercontent.com/ThisSyaa/portofolio/Syaaxi/src/assets/red.mp4" controls="controls" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="100%"></video>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80"/>
   <br/>
   <h1>Portofolio Template</h1>
   <p>A Premium 3D Interactive Portfolio Template built with modern web technologies.</p>
