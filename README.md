@@ -1,8 +1,8 @@
 <div align="center">
-  <video src="src/assets/red.mp4" controls="controls" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="100%"></video>
-  <br/>
-  <i>(If video doesn't auto-play, <a href="https://github.com/ThisSyaa/portofolio/raw/Syaaxi/src/assets/red.mp4">click here to view</a>)</i>
-  <br />
+
+![Portfolio Preview](src/assets/red.mp4)
+
+<br />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80"/>
   <h1>Portofolio Template</h1>
   <p>A Premium 3D Interactive Portfolio Template built with modern web technologies.</p>
