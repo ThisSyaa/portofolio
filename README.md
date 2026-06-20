@@ -1,8 +1,7 @@
-<div align="center">
-
 ![Portfolio Preview](src/assets/red.mp4)
 
-<br />
+<div align="center">
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80"/>
   <h1>Portofolio Template</h1>
   <p>A Premium 3D Interactive Portfolio Template built with modern web technologies.</p>
