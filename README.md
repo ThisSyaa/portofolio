@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="./src/assets/red.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/ThisSyaa/portofolio/raw/Syaaxi/src/assets/red.mp4" width="100%" autoplay loop muted playsinline></video>
   <br />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80"/>
   <h1>Portofolio Template</h1>
